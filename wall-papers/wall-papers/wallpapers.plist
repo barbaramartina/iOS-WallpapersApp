@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>categories</key>
+		<array>
+			<string>iphone5</string>
+		</array>
+		<key>search-tags</key>
+		<array>
+			<string>iphone</string>
+			<string>nature</string>
+			<string>flowers</string>
+		</array>
+		<key>image-type</key>
+		<string>jpg</string>
+		<key>image-name</key>
+		<string>flower-firework-iphone5</string>
+		<key>name</key>
+		<string>Flowers - iPhone5</string>
+	</dict>
+	<dict>
+		<key>categories</key>
+		<array>
+			<string>iphone4</string>
+		</array>
+		<key>search-tags</key>
+		<array>
+			<string>iphone</string>
+			<string>nature</string>
+			<string>flowers</string>
+		</array>
+		<key>image-type</key>
+		<string>jpg</string>
+		<key>image-name</key>
+		<string>flower-firework-iphone4</string>
+		<key>name</key>
+		<string>Flowers - iPhone4</string>
+	</dict>
+	<dict>
+		<key>categories</key>
+		<array>
+			<string>ipad</string>
+		</array>
+		<key>search-tags</key>
+		<array>
+			<string>ipad</string>
+			<string>nature</string>
+			<string>flowers</string>
+		</array>
+		<key>image-type</key>
+		<string>jpg</string>
+		<key>image-name</key>
+		<string>flower-firework-ipad</string>
+		<key>name</key>
+		<string>Flowers - iPad</string>
+	</dict>
+	<dict>
+		<key>categories</key>
+		<array>
+			<string>ipad-retine</string>
+		</array>
+		<key>search-tags</key>
+		<array>
+			<string>ipad</string>
+			<string>nature</string>
+			<string>flowers</string>
+		</array>
+		<key>image-type</key>
+		<string>jpg</string>
+		<key>image-name</key>
+		<string>flower-firework-ipad-retina</string>
+		<key>name</key>
+		<string>Flowers - iPad Retina</string>
+	</dict>
+</array>
+</plist>
